@@ -3,6 +3,8 @@
 Gamebox was designed to spring board game development. It allows the developer to define business rules about a game very quickly without having to worry about resource loading, sound/music management, creating windows, or messing with viewports. Gamebox allows you to define a game's business rules within minutes, using the metaphor of a 5th grade play.
 
 [GRAPHIC: illustration of kids in costumes on a stage]
+![kids](../images/kidsplay.png)
+
 
 The driving idea behind Gamebox is to provide the ability to have as many of the basic common pieces of a 2D game at the developers disposal from the beginning.
 
